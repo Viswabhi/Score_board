@@ -1,0 +1,11 @@
+{
+    "name": "Cricket Score",
+    "version": "1.0.0",
+    "description": "Cricket score update",
+    "manifest_version": 3,
+    "author": "Avishek Biswakarma",
+    "action" : {
+        "default_popup": "index.html",
+        "default_title": "Chrome Extension"
+    }
+}
